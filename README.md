@@ -2,7 +2,7 @@ Untitled Omegalike RPG
 =====
 
 A text-based roguelike game heavily based on storytelling and player interactions.
-Based on the C++ Omega RPG engine from [cwc](http://github.com/cwc/omegaRPG)
+Based on the [C++ Omega RPG engine](https://github.com/cwc/omegaRPG)
 
 Building
 -----
